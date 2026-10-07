@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="avatar.jpg" width="180" height="180" alt="西山">
-</p>
+
 
 <h1 align="center">西山</h1>
 
