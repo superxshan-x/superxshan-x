@@ -1,7 +1,4 @@
 
-
-<h1 align="center">西山</h1>
-
 <p align="center">
   <a href="https://x.com/orzooooo">X @orzooooo</a>
   ·
